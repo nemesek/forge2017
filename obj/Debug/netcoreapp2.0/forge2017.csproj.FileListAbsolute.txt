@@ -1,0 +1,10 @@
+/Users/dnemesek/Source/Lori/forge2017/bin/Debug/netcoreapp2.0/forge2017.deps.json
+/Users/dnemesek/Source/Lori/forge2017/bin/Debug/netcoreapp2.0/forge2017.runtimeconfig.json
+/Users/dnemesek/Source/Lori/forge2017/bin/Debug/netcoreapp2.0/forge2017.runtimeconfig.dev.json
+/Users/dnemesek/Source/Lori/forge2017/bin/Debug/netcoreapp2.0/forge2017.dll
+/Users/dnemesek/Source/Lori/forge2017/bin/Debug/netcoreapp2.0/forge2017.pdb
+/Users/dnemesek/Source/Lori/forge2017/obj/Debug/netcoreapp2.0/forge2017.csproj.CoreCompileInputs.cache
+/Users/dnemesek/Source/Lori/forge2017/obj/Debug/netcoreapp2.0/forge2017.AssemblyInfoInputs.cache
+/Users/dnemesek/Source/Lori/forge2017/obj/Debug/netcoreapp2.0/forge2017.AssemblyInfo.cs
+/Users/dnemesek/Source/Lori/forge2017/obj/Debug/netcoreapp2.0/forge2017.dll
+/Users/dnemesek/Source/Lori/forge2017/obj/Debug/netcoreapp2.0/forge2017.pdb
